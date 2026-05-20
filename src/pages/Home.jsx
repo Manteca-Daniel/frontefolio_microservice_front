@@ -22,8 +22,8 @@ export default function Home() {
             <div>
               <div className="hero-eyebrow">Importación global simplificada</div>
               <h1>
-                El mundo en<br />
-                tu <em>puerta</em>
+                Andres<br />
+                Aupa <em>Atleti</em>
               </h1>
               <p className="hero-subtitle">
                 Solicita cualquier producto de más de 50 países. Nosotros gestionamos
